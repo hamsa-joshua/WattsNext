@@ -1,1 +1,0 @@
-print("Energy Consumption Prediction")
